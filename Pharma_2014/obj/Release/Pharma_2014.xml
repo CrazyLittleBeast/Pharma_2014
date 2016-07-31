@@ -1,0 +1,284 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Pharma_2014
+</name>
+</assembly>
+<members>
+<member name="P:Pharma_2014.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Pharma_2014.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Pharma_2014.My.Resources.Resources.basket_accept_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pharma_2014.My.Resources.Resources.basket_remove_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pharma_2014.My.Resources.Resources.ButtonLogOff_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pharma_2014.My.Resources.Resources.clear_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pharma_2014.My.Resources.Resources.Close_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pharma_2014.My.Resources.Resources.Login">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pharma_2014.My.Resources.Resources.MiscUser">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pharma_2014.My.Resources.Resources.Money_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pharma_2014.My.Resources.Resources.palet_G">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pharma_2014.My.Resources.Resources.Pharmacy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pharma_2014.My.Resources.Resources.roadsideShop">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pharma_2014.My.Resources.Resources.shopping_basket_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pharma_2014.My.Resources.Resources.shoppingBasket_add_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pharma_2014.My.Resources.Resources.TaskList">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pharma_2014.My.Resources.Resources.user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pharma_2014.My.Resources.Resources.workgroup">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Pharma_2014.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.supplier_contactDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.UserDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.SupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.Search_ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.CartDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.TransactionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.SalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.Cart_DetailedListDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.ReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.supplier_contactRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.UserRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.SupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.Search_ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.CartRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.TransactionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.SalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.Cart_DetailedListRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.ReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.supplier_contactRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.UserRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.SupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.Search_ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.CartRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.TransactionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.SalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.Cart_DetailedListRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet.ReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSetTableAdapters.ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSetTableAdapters.supplier_contactTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSetTableAdapters.UserTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSetTableAdapters.SupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSetTableAdapters.SearchProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSetTableAdapters.CartTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSetTableAdapters.TransactionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSetTableAdapters.SalesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSetTableAdapters.Cart_DetailedListTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSetTableAdapters.ReportTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Pharma_2014.Pharma_DBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Pharma_2014.Pharma_DBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Pharma_2014.Pharma_DBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Pharma_2014.Pharma_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Pharma_2014.Pharma_DBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Pharma_2014.Pharma_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Pharma_2014.Pharma_DBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Pharma_2014.Pharma_DBDataSetTableAdapters.TableAdapterManager.UpdateAll(Pharma_2014.Pharma_DBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Pharma_2014.Pharma_DBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

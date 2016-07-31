@@ -1,0 +1,21 @@
+
+-----------------------------------
+SELECT      p.brand_name, p.generic_name, p.description, p.qty, p.aqrd_date, p.expr_date, p.price, p.selling_price, p.supplier_id, p.product_id, s.supplier_name
+FROM       Product AS p INNER JOIN
+                   Supplier AS s ON p.supplier_id = s.supplier_id
+
+WHERE     (p.aqrd_date BETWEEN @today AND @endOfDay)
+
+
+-------------------------------------
+
+SELECT      p2.brand_name, p2.generic_name, p2.description, (p2.qty - COALESCE(s.qty,0)+'/'+p2.qty) AS qty, p2.aqrd_date, p2.expr_date, p2.price, p2.selling_price, p2.supplier_id, p2.product_id, supplier_name
+
+FROM      (Select p.brand_name, p.generic_name, p.description, p.qty, p.aqrd_date, p.expr_date, p.price, p.selling_price, p.supplier_id, p.product_id, s.supplier_name FROM Product AS p INNER JOIN
+                   Supplier AS s ON p.supplier_id = s.supplier_id) AS p2 LEFT JOIN
+
+(SELECT     s1. product_id, sum(s1.qty) AS qty
+                        FROM        sales as s1
+                        GROUP BY product_id) AS s ON p2.product_id = s.product_id
+
+WHERE     (aqrd_date BETWEEN @today AND @endOfDay)
